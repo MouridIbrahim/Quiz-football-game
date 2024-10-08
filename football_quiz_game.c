@@ -24,7 +24,7 @@ int main (){
 
     // Question 1
     printf("1) Which player has scored the fastest hat-trick in Premier League history?\n");
-    printf("1) Sergio Aguero\n2) Sadio Mane\n3) Thierry Henry\n4) Harry Kane\n");
+    printf(" 1) Sergio Aguero\n 2) Sadio Mane\n 3) Thierry Henry\n 4) Harry Kane\n");
     printf("What's your answer: ");
     scanf("%d", &ans1);
     if (ans1 == 2) {
@@ -38,7 +38,7 @@ int main (){
 
     // Question 2
     printf("----------------------------------------------\n2) Which team has never been relegated from the English Premier League since its inception in 1992?\n");
-    printf("1) Arsenal\n2) Manchester United\n3) Liverpool\n4) Everton\n");
+    printf(" 1) Arsenal\n 2) Manchester United\n 3) Liverpool\n 4) Everton\n");
     printf("What's your answer: ");
     scanf("%d", &ans2);
     if (ans2 == 1) {
@@ -52,7 +52,7 @@ int main (){
 
     // Question 3
     printf("----------------------------------------------\n3) Which club won the UEFA Champions League without losing a single match in the 1992-93 season?\n");
-    printf("1) Olympique Marseille\n2) AC Milan\n3) Ajax\n4) Barcelona\n");
+    printf(" 1) Olympique Marseille\n 2) AC Milan\n 3) Ajax\n 4) Barcelona\n");
     printf("What's your answer: ");
     scanf("%d", &ans3);
     if (ans3 == 1) {
@@ -66,7 +66,7 @@ int main (){
 
     // Question 4
     printf("----------------------------------------------\n4) Who was the first goalkeeper to win the Ballon d'Or?\n");
-    printf("1) Iker Casillas\n2) Oliver Kahn\n3) Lev Yashin\n4) Gianluigi Buffon\n");
+    printf(" 1) Iker Casillas\n 2) Oliver Kahn\n 3) Lev Yashin\n 4) Gianluigi Buffon\n");
     printf("What's your answer: ");
     scanf("%d", &ans4);
     if (ans4 == 3) {
@@ -80,7 +80,7 @@ int main (){
 
     // Question 5
     printf("----------------------------------------------\n5) Which player has scored the most goals in a single FIFA World Cup tournament?\n");
-    printf("1) Just Fontaine\n2) Pele\n3) Gerd Muller\n4) Ronaldo Nazario\n");
+    printf(" 1) Just Fontaine\n 2) Pele\n 3) Gerd Muller\n 4) Ronaldo Nazario\n");
     printf("What's your answer: ");
     scanf("%d", &ans5);
     if (ans5 == 1) {
@@ -94,7 +94,7 @@ int main (){
 
     // Question 6
     printf("----------------------------------------------\n6) Which player has won the most UEFA European Championship titles?\n");
-    printf("1) Xavi\n2) Cristiano Ronaldo\n3) Andres Iniesta\n4) Michel Platini\n");
+    printf(" 1) Xavi\n 2) Cristiano Ronaldo\n 3) Andres Iniesta\n 4) Michel Platini\n");
     printf("What's your answer: ");
     scanf("%d", &ans6);
     if (ans6 == 2) {
@@ -108,7 +108,7 @@ int main (){
 
     // Question 7
     printf("----------------------------------------------\n7) Which club has won the most FIFA Club World Cup titles?\n");
-    printf("1) Barcelona\n2) Real Madrid\n3) Bayern Munich\n4) Manchester United\n");
+    printf(" 1) Barcelona\n 2) Real Madrid\n 3) Bayern Munich\n 4) Manchester United\n");
     printf("What's your answer: ");
     scanf("%d", &ans7);
     if (ans7 == 2) {
@@ -122,7 +122,7 @@ int main (){
 
     // Question 8
     printf("----------------------------------------------\n8) Which African country was the first to reach the quarter-finals of the FIFA World Cup?\n");
-    printf("1) Cameroon\n2) Senegal\n3) Ghana\n4) Nigeria\n");
+    printf(" 1) Cameroon\n 2) Senegal\n 3) Ghana\n 4) Nigeria\n");
     printf("What's your answer: ");
     scanf("%d", &ans8);
     if (ans8 == 1) {
@@ -136,7 +136,7 @@ int main (){
 
     // Question 9
     printf("----------------------------------------------\n9) Who holds the record for the most assists in a single Premier League season?\n");
-    printf("1) Kevin De Bruyne\n2) Cesc Fabregas\n3) Mesut ozil\n4) Thierry Henry\n");
+    printf(" 1) Kevin De Bruyne\n 2) Cesc Fabregas\n 3) Mesut ozil\n 4) Thierry Henry\n");
     printf("What's your answer: ");
     scanf("%d", &ans9);
     if (ans9 == 1) {
@@ -150,7 +150,7 @@ int main (){
 
     // Question 10
     printf("----------------------------------------------\n10) Which player has the most appearances in FIFA World Cup history?\n");
-    printf("1) Lothar Matthaus\n2) Cafu\n3) Diego Maradona\n4) Miroslav Klose\n");
+    printf(" 1) Lothar Matthaus\n 2) Cafu\n 3) Diego Maradona\n 4) Miroslav Klose\n");
     printf("What's your answer: ");
     scanf("%d", &ans10);
     if (ans10 == 1) {
